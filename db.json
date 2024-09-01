@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": "201c",
+      "title": "ravi yadav",
+      "location": "agra",
+      "date": "2024-09-21",
+      "description": "want a trip from agra to delhi"
+    },
+    {
+      "id": "3ae1",
+      "title": "simran",
+      "location": "ghazipur",
+      "date": "2024-09-22",
+      "description": "delhi to ghazipur trip"
+    }
+  ]
+}
