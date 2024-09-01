@@ -1,3 +1,6 @@
+Project : travel Record which contain title, location, date of journey and description of the tour.
+Author: Smita Yadav
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
