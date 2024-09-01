@@ -1,4 +1,4 @@
-Project : travel Record which contain title, location, date of journey and description of the tour.
+Project : travel Record Web Appication Created by React Js which contain title, location, date of journey and description of the tour.
 Author: Smita Yadav
 
 # Getting Started with Create React App
